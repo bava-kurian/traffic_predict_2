@@ -6,7 +6,7 @@ from datetime import datetime
 import time
 from streamlit_autorefresh import st_autorefresh
 
-MODEL_PATH = os.path.join("train", "xgb_traffic_predictor.pkl")
+MODEL_PATH = os.path.join("train", "rf_traffic_predictor.pkl")
 MAX_SIGNAL_DURATION = 90  # seconds
 DIRECTIONS = ["North", "East", "South", "West"]
 

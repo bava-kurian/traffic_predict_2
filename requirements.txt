@@ -1,8 +1,8 @@
-fastapi
-uvicorn
-xgboost
-scikit-learn
-numpy
-joblib
-streamlit
-streamlit-autorefresh 
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+xgboost>=2.0.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+joblib>=1.3.0
+streamlit>=1.33.0
+streamlit-autorefresh>=0.0.4
