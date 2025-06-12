@@ -43,7 +43,7 @@ The project requires the following Python packages (see `requirements.txt`):
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/bava-kurian/traffic_predict_2)
    cd traffic_predict_2
    ```
 
